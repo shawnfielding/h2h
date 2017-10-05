@@ -1,0 +1,12 @@
+.container {
+  background-image: url("../images/IMG_0107.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.jumbotron{
+  opacity: 0.5;
+  color: white;
+  text-align: center;
+
+}
